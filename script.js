@@ -3,7 +3,7 @@ const tasks = [
     { question: "Wo ist hier ___ Telefon? - ___ ist dort.", answer: "das - Es" },
     { question: "Wie gefällt Ihnen ___ Lampe? - ___ ist sehr schön.", answer: "die - Sie" },
     { question: "Woher kommt ___ Mann? - ___ kommt aus Österreich.", answer: "der - Er" },
-    { question: "Wo sind ____ Tomaten? - ____ sind hier.", answer: "die - Sie" },
+    { question: "Wo sind ___ Tomaten? - ___ sind hier.", answer: "die - Sie" },
     { question: "Wo ist ___ Verkäufer? - ___ kommt sofort.", answer: "der - Er" },
     { question: "Entschuldigung, wo ist ___ Toilette? - ___ ist hier.", answer: "die - Sie" },
     { question: "Gefällt Ihnen ___ Wohnung? - Ja, ___ ist schön.", answer: "die - sie" },
