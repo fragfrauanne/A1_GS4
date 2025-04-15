@@ -83,7 +83,15 @@ h1 {
 .card-back {
     transform: rotateY(180deg);
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
+}
+
+.card-back p {
+    margin-bottom: 0px; /* Verkleinert den Abstand unter dem Antworttext */
+}
+
+.card-back div {
+    margin-top: 0; /* Stellt sicher, dass kein zusätzlicher Abstand oben bei den Buttons vorhanden ist */
 }
 
 button {
@@ -114,4 +122,10 @@ button {
 
 .fireworks.show {
     display: block; /* Jetzt wird es nur angezeigt, wenn die Klasse 'show' dazukommt */
+}
+
+footer {
+    font-size: 14px;
+    color: #666;
+    margin-top: 20px;
 }
